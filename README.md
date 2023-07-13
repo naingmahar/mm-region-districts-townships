@@ -15,7 +15,7 @@ Support Web , Js and Ts .
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install npm i @nmh/mm-region-districts-townships --save
+$ npm install @nmh/mm-region-districts-townships --save
 ```
 
 ### Js Example!
