@@ -15,16 +15,16 @@ Support Web , Js and Ts .
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install npm i @nmh/myanmar-location --save
+$ npm install npm i @nmh/mm-region-districts-townships --save
 ```
 
 ### Js Example!
 
 ---
 
-const Myanmar = require("@nmh/myanmar-location/dist").default;
+const myanmar = require("@nmh/myanmar-location").default;
 
-console.log(Myanmar.getAllDistricts());
+console.log(myanmar.getAllDistricts());
 
 ---
 
@@ -32,8 +32,8 @@ console.log(Myanmar.getAllDistricts());
 
 ---
 
-import Myanmar from '@nmh/myanmar-location/dist'
+import myanmar from '@nmh/myanmar-location'
 
-console.log(Myanmar.getAllDistricts());
+console.log(myanmar.getAllDistricts());
 
 ---
