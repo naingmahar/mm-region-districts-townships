@@ -22,7 +22,7 @@ $ npm install @nmh/mm-region-districts-townships --save
 
 ---
 
-const myanmar = require("@nmh/myanmar-location").default;
+const myanmar = require("@nmh/mm-region-districts-townships").default;
 
 console.log(myanmar.getAllDistricts());
 
@@ -32,7 +32,7 @@ console.log(myanmar.getAllDistricts());
 
 ---
 
-import myanmar from '@nmh/myanmar-location'
+import myanmar from '@nmh/mm-region-districts-townships'
 
 console.log(myanmar.getAllDistricts());
 
