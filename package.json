@@ -1,6 +1,6 @@
 {
   "name": "@nmh/mm-region-districts-townships",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Support Web , Js and Ts .",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/naingmahar/mm-region-districts-townships/issues"
   },
-  "homepage": "https://github.com/naingmahar/mm-region-districts-townships#readme"
+  "homepage": "https://d10mjdj7odx61f.cloudfront.net/"
 }
