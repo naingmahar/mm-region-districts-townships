@@ -1,6 +1,6 @@
 {
   "name": "@nmh/mm-region-districts-townships",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Support Web , Js and Ts .",
   "main": "index.js",
   "scripts": {
